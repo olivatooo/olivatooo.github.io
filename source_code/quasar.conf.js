@@ -27,6 +27,7 @@ module.exports = function (ctx) {
 
       components: [
         'QLayout',
+        'QParallax',
         'QHeader',
         'QDrawer',
         'QPageContainer',
@@ -43,6 +44,7 @@ module.exports = function (ctx) {
         'QItemSection',
         'QList',
         'QItem',
+        'QImg',
         'QCard',
         'QCardSection',
       ],

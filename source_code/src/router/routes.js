@@ -19,6 +19,14 @@ const routes = [
       {
         path: 'achiev',
         component: () => import('pages/Achievements.vue')
+      },
+      {
+        path: 'thanks',
+        component: () => import('pages/Thanks.vue')
+      },
+      {
+        path: 'jobs',
+        component: () => import('pages/Jobs.vue')
       }
     ]
   }

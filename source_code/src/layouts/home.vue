@@ -41,26 +41,17 @@
             <q-icon name="videogame_asset" />
           </q-item-section>
           <q-item-section>
-            <q-item-label>Conquistas</q-item-label>
+            <q-item-label>Experiências</q-item-label>
             <q-item-label caption>Projetos, hackatons, submissões, etc</q-item-label>
           </q-item-section>
         </q-item>
-        <q-item clickable tag="a" target="_self" href="#">
+        <q-item clickable tag="a" target="_self" href="#/jobs">
           <q-item-section avatar>
             <q-icon name="brush" />
           </q-item-section>
           <q-item-section>
-            <q-item-label>Hobbys artísticos</q-item-label>
-            <q-item-label caption>Só diversão pessoal</q-item-label>
-          </q-item-section>
-        </q-item>
-        <q-item clickable tag="a" target="_blank" href="https://gitlab.com/olivato">
-          <q-item-section avatar>
-            <q-icon name="code" />
-          </q-item-section>
-          <q-item-section>
-            <q-item-label>Gitlab</q-item-label>
-            <q-item-label caption>Fico bastante tempo lá</q-item-label>
+            <q-item-label>Jobs</q-item-label>
+            <q-item-label caption>Lugares em que eu já trabalhei</q-item-label>
           </q-item-section>
         </q-item>
         <q-item clickable tag="a" target="_self" href="#/faq">
@@ -70,6 +61,24 @@
           <q-item-section>
             <q-item-label>FAQ</q-item-label>
             <q-item-label caption>Perguntas que ninguém fez!</q-item-label>
+          </q-item-section>
+        </q-item>
+        <q-item clickable tag="a" target="_self" href="#/thanks">
+          <q-item-section avatar>
+            <q-icon name="face" />
+          </q-item-section>
+          <q-item-section>
+            <q-item-label>Agradecimentos</q-item-label>
+            <q-item-label caption>Pessoas que me ajudaram a chegar onde estou</q-item-label>
+          </q-item-section>
+        </q-item>
+        <q-item clickable tag="a" target="_blank" href="https://gitlab.com/olivato">
+          <q-item-section avatar>
+            <q-icon name="code" />
+          </q-item-section>
+          <q-item-section>
+            <q-item-label>Gitlab</q-item-label>
+            <q-item-label caption>Fico bastante tempo lá</q-item-label>
           </q-item-section>
         </q-item>
       </q-list>
