@@ -1,7 +1,7 @@
 <template>
   <div class="q-pa-md row items-start q-gutter-md" style="max-width: 100%">
     <q-card class="my-card">
-      <img src="assets/fca_limeira.png">
+      <img src="~assets/fca_limeira.png">
 
       <q-card-section>
         <div class="text-h6">FCA - Unicamp</div>
@@ -15,7 +15,7 @@
       </q-card-section>
     </q-card>
     <q-card class="my-card">
-      <img src="assets/piuma.svg">
+      <img src="~assets/piuma.svg">
 
       <q-card-section>
         <div class="text-h6">Piuma Tecnologia</div>

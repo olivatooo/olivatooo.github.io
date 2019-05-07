@@ -18,7 +18,7 @@ export default {
       simple: [
         {
           label: 'Qual distro você usa?',
-          avatar: 'assets/linux.png',
+          avatar: '~assets/linux.png',
           children: [
             {
               label: 'Notebook',
@@ -62,7 +62,7 @@ export default {
         },
         {
           label: 'Quais linguagens de programação você tem mais afinidade?',
-          avatar: 'assets/random.gif',
+          avatar: '~assets/random.gif',
           children: [
             {
               label: 'Python3',
