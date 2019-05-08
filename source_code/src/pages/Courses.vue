@@ -17,8 +17,7 @@
           </template>
         <q-card>
           <q-card-section>
-            Atualmente meu maior sofrimento, com uma relação entre amor e ódio estou cá na Universidade Federal
-            de São Carlos, tentando me tornar um cientista da computação (mesmo não vendo nada sobre no curso). Para mais informações sobre meu curso acesse: <a href="http://bcc.dc.ufscar.br">BCC UFSCar</a>
+            Para mais informações sobre meu curso acesse: <a href="http://bcc.dc.ufscar.br">BCC UFSCar</a>
           </q-card-section>
         </q-card>
       </q-expansion-item>
